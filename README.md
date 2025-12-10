@@ -51,6 +51,6 @@ Lara, Tariky, Pablo, Pedro, Bruno, Décio, João, Bernardo - Devs Júniors
 
 ## 🎥 Demonstração
 
-<iframe width="560" height="315" src="https://youtu.be/a9WBB9XulSc?si=w6fEedHDHRtaSY_d" frameborder="0" allowfullscreen></iframe>
+[🎬 Clique para assistir](https://youtu.be/a9WBB9XulSc?si=w6fEedHDHRtaSY_d)
 
 ---
