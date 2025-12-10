@@ -37,15 +37,15 @@ O jogo contém modo Professor e modo Aluno, permitindo acompanhar o desempenho d
 
 O projeto foi desenvolvido por uma equipe dedicada como parte da disciplina de Projeto Integrador. Contou com colaboração, planejamento e foco no aprendizado sobre tecnologia e educação. 
 
-Aline – Líder de Projeto
-Luana - Gerente de Processo / Configuração
-Marcus - Scrum Master / Dev Sênior
-Arthur - Dev Sênior
-Matheus - QA
-Edgar - Arquiteto de Software / QA
-Carlos - Designer de Software
-Alice - Designer de Jogos / PO
-Lara, Tariky, Pablo, Pedro, Bruno, Décio, João, Bernardo - Devs Júniors 
+Aline – Líder de Projeto  
+Luana - Gerente de Processo / Configuração  
+Marcus - Scrum Master / Dev Sênior  
+Arthur - Dev Sênior  
+Matheus - QA  
+Edgar - Arquiteto de Software / QA  
+Carlos - Designer de Software  
+Alice - Designer de Jogos / PO  
+Lara, Tariky, Pablo, Pedro, Bruno, Décio, João, Bernardo - Devs Júniors   
 
 ---
 
