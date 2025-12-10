@@ -35,7 +35,7 @@ O jogo contém modo Professor e modo Aluno, permitindo acompanhar o desempenho d
 
 ## 🧑‍🤝‍🧑 Equipe
 
-O projeto foi desenvolvido por uma equipe dedicada como parte da disciplina de Projeto Integrador. Contou com colaboração, planejamento e foco no aprendizado sobre tecnologia e educação. 
+O projeto foi desenvolvido por uma equipe dedicada como parte das disciplinas de Engenheria de Software II, Arquitetura de Software, Programação Orientada a Objeto, Bancod de Dados. 
 
 Aline – Líder de Projeto  
 Luana - Gerente de Processo / Configuração  
