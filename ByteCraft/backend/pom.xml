@@ -19,6 +19,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>bytecraft</name>
     <description>PI2025-Equipe 5° ano.</description>
+    <packaging>war</packaging>
 
     <!-- Propriedades -->
     <properties>
@@ -88,6 +89,7 @@
 
     <!-- Build Plugins -->
     <build>
+        <finalName>app</finalName>
         <plugins>
             <!-- Maven Compiler -->
             <plugin>
