@@ -21,6 +21,7 @@ public class SecurityConfig {
             .csrf(csrf -> csrf.disable()) // desativa CSRF apenas para testes com front separado
             .cors(cors -> cors.configurationSource(corsConfigurationSource()))
             .authorizeHttpRequests(auth -> auth
+                .requestMatchers("/", "/index.html", "/static/**", "/assets/**", "/*.js", "/*.css", "/favicon.ico").permitAll()
                 .requestMatchers("/api/alunos/**").permitAll()
                 .requestMatchers("/api/professores/**").permitAll()
                 .requestMatchers("/api/salas/**").permitAll() 
