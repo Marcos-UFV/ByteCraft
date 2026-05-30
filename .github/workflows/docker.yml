@@ -27,8 +27,8 @@ jobs:
       - name: Build and push image
         uses: docker/build-push-action@v5
         with:
-          context: .
-          file: ./ByteCraft/Dockerfile
+          context: ./ByteCraft
+          file: Dockerfile
           push: true
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/bytecraft:latest
